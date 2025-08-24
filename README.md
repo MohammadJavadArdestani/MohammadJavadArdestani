@@ -1,6 +1,8 @@
-### Hello there👋
+### Hello there 👋
 
-- 🏫 I'm studying Computer Engineering at the Amirkabir University of Technology. 
-- 📚 I'm currently learning about transformer-based Embeddings 
-- 📫 You can reach me by my [email](mailto:mjavad.ardestani00@gmail.com)
-
+- 🎓 I'm a Master's student in Computer Science at the **University of Alberta**.  
+- 🔬 My research focuses on **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, and **Retrieval-Augmented Generation (RAG)**.  
+- ⚙️ Experienced in building **evaluation pipelines**, **fact extraction systems**, and **knowledge graph–based retrieval frameworks**.  
+- 📚 Currently exploring **long-form QA evaluation** and **agentic AI systems**.  
+- 💡 Passionate about combining **academic research** with **real-world AI applications**.  
+- 📫 You can reach me by [email](mailto:mjavad.ardestani00@gmail.com).  
